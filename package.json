@@ -12,6 +12,11 @@
     "type": "git",
     "url": "git@github.com:tuntunbus/futu-api-browserify.git"
   },
+  "keywords": [
+    "futu",
+    "futu-api",
+    "FutuOpenD"
+  ],
   "dependencies": {
     "buffer": "^6.0.3",
     "bytebuffer": "^5.0.1",
