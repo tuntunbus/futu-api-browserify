@@ -8,6 +8,10 @@
   },
   "author": "tuntunbus",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tuntunbus/futu-api-browserify.git"
+  },
   "dependencies": {
     "buffer": "^6.0.3",
     "bytebuffer": "^5.0.1",
