@@ -1,6 +1,6 @@
 {
   "name": "futu-api-browserify",
-  "version": "1.0.3",
+  "version": "7.1.3308",
   "description": "Browserified version of futu-api",
   "main": "main.js",
   "scripts": {
